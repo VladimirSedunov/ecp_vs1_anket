@@ -4,10 +4,10 @@
 <hr>
 
 ## Проект реализован с использованием
-Python = Pytest = Allure Report = Jenkins = Telegram = Java
+Python = Pytest = Allure Report = Jenkins = Telegram = Java = IBM WAS
 
 ![](/design/icons/Python.png)&emsp;![](/design/icons/Pytest.png)&emsp;
-![](/design/icons/Allure_Report.png)&emsp;![](/design/icons/Jenkins.png)&emsp;![](/design/icons/Telegram.png)&emsp;![](/design/icons/Java.png)
+![](/design/icons/Allure_Report.png)&emsp;![](/design/icons/Jenkins.png)&emsp;![](/design/icons/Telegram.png)&emsp;![](/design/icons/Java.png)&emsp;![ ](/design/icons/WAS.png)
 <hr>
 
 ## Основной шаблон выполнения шагов тест-кейса:
